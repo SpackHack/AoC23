@@ -1,5 +1,9 @@
 {
     "rust-analyzer.linkedProjects": [
-        "./day_1/Cargo.toml"
+        "./day_1/Cargo.toml",
+        "./template/Cargo.toml"
+    ],
+    "cSpell.words": [
+        "rstest"
     ]
 }
